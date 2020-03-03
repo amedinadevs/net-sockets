@@ -1,0 +1,7 @@
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\bin\Debug\Sockets.exe
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\bin\Debug\Sockets.pdb
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\bin\Debug\websocket-sharp.dll
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\bin\Debug\websocket-sharp.xml
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\obj\Debug\Sockets.csprojResolveAssemblyReference.cache
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\obj\Debug\Sockets.exe
+C:\Users\amedina\Desktop\Pruebas .NET\Sockets\Sockets\obj\Debug\Sockets.pdb
